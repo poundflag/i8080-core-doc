@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['ral_0',['ral',['../arithmetic__instruction_8h.html#a5cfb4646486ee14bb82cf321652f9eb9',1,'arithmetic_instruction.h']]],
+  ['rar_1',['rar',['../arithmetic__instruction_8h.html#a239d889518c8223c543c51ca52341bcc',1,'arithmetic_instruction.h']]],
+  ['read_5fbinary_5ffrom_5ffile_2',['read_binary_from_file',['../file__io_8h.html#adc8a31ed4dffc575c0a5f9bf2c7a6b5f',1,'file_io.h']]],
+  ['read_5ffrom_5fmemory_3',['read_from_memory',['../memory__controller_8h.html#a044314ee7cb2e5814769a5fe6781b8f7',1,'memory_controller.h']]],
+  ['reg_5fa_4',['REG_A',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1ba47d51c79a0de493e9afd5467a65431fb',1,'register_controller.h']]],
+  ['reg_5fb_5',['REG_B',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1bac159de0b6225a6b7219c16059bcf6fa2',1,'register_controller.h']]],
+  ['reg_5fc_6',['REG_C',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1bade64a3fbee5b52636b96ac8541e39dfd',1,'register_controller.h']]],
+  ['reg_5fd_7',['REG_D',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1bae93058d5824cc64622a4a3017fd3704c',1,'register_controller.h']]],
+  ['reg_5fe_8',['REG_E',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1bacb35e1986810cec7a9a2e168280f06aa',1,'register_controller.h']]],
+  ['reg_5fenum_5fsize_9',['REG_ENUM_SIZE',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1ba13a7960cb23b5049f93a32483e89741b',1,'register_controller.h']]],
+  ['reg_5ff_10',['REG_F',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1ba1aefccc5394e8c262a7bb027626ea0d3',1,'register_controller.h']]],
+  ['reg_5fh_11',['REG_H',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1ba9bdf7f23a3e1f7b4eb866d8125b75330',1,'register_controller.h']]],
+  ['reg_5fl_12',['REG_L',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1ba58e71539894027b3df33c4b6cb74cd07',1,'register_controller.h']]],
+  ['reg_5fm_13',['REG_M',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1baa8e7c9b9594a0e43deab2ea5954e3b66',1,'register_controller.h']]],
+  ['register_14',['Register',['../register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1b',1,'register_controller.h']]],
+  ['register_5fcontroller_2eh_15',['register_controller.h',['../register__controller_8h.html',1,'']]],
+  ['register_5fpair_16',['Register_Pair',['../register__controller_8h.html#abc3a37b4bfef3ebdedb3199ad0cb6a1a',1,'register_controller.h']]],
+  ['remove_5ffile_17',['remove_file',['../file__io_8h.html#a2cd57021e9d70cb43b4d9da5f79378e6',1,'file_io.h']]],
+  ['ret_18',['ret',['../branching__instruction_8h.html#aa347157686423eaaeb40c3926d011bc2',1,'branching_instruction.h']]],
+  ['ret_5fconditional_19',['ret_conditional',['../branching__instruction_8h.html#a219e1f12562a0fac0e92b7ab8497eb83',1,'branching_instruction.h']]],
+  ['rlc_20',['rlc',['../arithmetic__instruction_8h.html#a92a647508105e147b6f41ed2ab6b4f0f',1,'arithmetic_instruction.h']]],
+  ['rrc_21',['rrc',['../arithmetic__instruction_8h.html#a6715222b5f6cff15b4f994d144ec4fc5',1,'arithmetic_instruction.h']]],
+  ['rst_22',['rst',['../logical__instruction_8h.html#ad0e8c5cf6f46617d8b1516801c9b8e3c',1,'logical_instruction.h']]],
+  ['run_23',['run',['../cpu_8h.html#ace4a8e1eae4db0f498cd9d54e83489d1',1,'cpu.h']]],
+  ['run_5findefinite_24',['run_indefinite',['../cpu_8h.html#af78b40726922d8dec8d5d22dce7b7437',1,'cpu.h']]]
+];

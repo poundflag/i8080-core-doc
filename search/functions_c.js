@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['sbb_0',['sbb',['../arithmetic__instruction_8h.html#afebd9083e43d020c6d550a8e5e555fe9',1,'arithmetic_instruction.h']]],
+  ['sbi_1',['sbi',['../arithmetic__instruction_8h.html#a76480ecd748fa973c4119277aa7b09a2',1,'arithmetic_instruction.h']]],
+  ['set_5fprogram_5fcounter_2',['set_program_counter',['../register__controller_8h.html#ad5990ab77031a8a3ebfc5fdf0e9b36aa',1,'register_controller.h']]],
+  ['set_5fregister_3',['set_register',['../register__controller_8h.html#ae770341420aacd971c413105a80543ea',1,'register_controller.h']]],
+  ['set_5fregister_5fbit_4',['set_register_bit',['../register__controller_8h.html#a37100dd333fafb6810cf4e3dcffdcca3',1,'register_controller.h']]],
+  ['set_5fregister_5fpair_5',['set_register_pair',['../register__controller_8h.html#adf346406bf95cd6856a8f3c651394dcc',1,'register_controller.h']]],
+  ['set_5fstack_5fpointer_6',['set_stack_pointer',['../stack_8h.html#acab6b27320bf2aefc68b3b85be0e860b',1,'stack.h']]],
+  ['set_5fsystem_5fhalt_7',['set_system_halt',['../cpu_8h.html#a0f30c3e4ebfc39600242fa6122137fc0',1,'cpu.h']]],
+  ['shld_8',['shld',['../logical__instruction_8h.html#a240222878568e90bbd5e1944eb1f8348',1,'logical_instruction.h']]],
+  ['sphl_9',['sphl',['../logical__instruction_8h.html#a356fd7213c8bcfb1d79e5659295755ed',1,'logical_instruction.h']]],
+  ['sta_10',['sta',['../logical__instruction_8h.html#a63abdb80314703d924b2e9fb8bd7a6b0',1,'logical_instruction.h']]],
+  ['stax_11',['stax',['../logical__instruction_8h.html#a5394729aed48b33d2038a1315f15e647',1,'logical_instruction.h']]],
+  ['stc_12',['stc',['../arithmetic__instruction_8h.html#aae41f5b56bf8caeb2e029514334eeb95',1,'arithmetic_instruction.h']]],
+  ['step_13',['step',['../cpu_8h.html#af4b9c98f5630bdee2af5566428f0a330',1,'cpu.h']]],
+  ['sub_14',['sub',['../arithmetic__instruction_8h.html#a2c50c157af7bf04546b554db761d4201',1,'arithmetic_instruction.h']]],
+  ['sui_15',['sui',['../arithmetic__instruction_8h.html#a9adfc15662678fc8f57f5b003e1246ed',1,'arithmetic_instruction.h']]]
+];

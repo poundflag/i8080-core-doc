@@ -150,12 +150,12 @@ Functions</h2></td></tr>
 <tr class="memitem:a356fd7213c8bcfb1d79e5659295755ed"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="logical__instruction_8h.html#a356fd7213c8bcfb1d79e5659295755ed">sphl</a> ()</td></tr>
 <tr class="memdesc:a356fd7213c8bcfb1d79e5659295755ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets the stack pointer (SP) to the contents of H:L register pair.  <a href="logical__instruction_8h.html#a356fd7213c8bcfb1d79e5659295755ed">More...</a><br /></td></tr>
 <tr class="separator:a356fd7213c8bcfb1d79e5659295755ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a42c34d1229c54661c07d5f36563c10"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="logical__instruction_8h.html#a2a42c34d1229c54661c07d5f36563c10">in</a> (int port_number)</td></tr>
-<tr class="memdesc:a2a42c34d1229c54661c07d5f36563c10"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads input data from a specified port into the accumulator (A).  <a href="logical__instruction_8h.html#a2a42c34d1229c54661c07d5f36563c10">More...</a><br /></td></tr>
-<tr class="separator:a2a42c34d1229c54661c07d5f36563c10"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6e687a625624fc942273beee4a5d5bf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="logical__instruction_8h.html#ac6e687a625624fc942273beee4a5d5bf">out</a> (int port_number)</td></tr>
-<tr class="memdesc:ac6e687a625624fc942273beee4a5d5bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes the contents of the accumulator (A) to a specified port.  <a href="logical__instruction_8h.html#ac6e687a625624fc942273beee4a5d5bf">More...</a><br /></td></tr>
-<tr class="separator:ac6e687a625624fc942273beee4a5d5bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae581e90cd0369a5f7aea0b01d7c521ab"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="logical__instruction_8h.html#ae581e90cd0369a5f7aea0b01d7c521ab">in</a> (uint8_t port_number)</td></tr>
+<tr class="memdesc:ae581e90cd0369a5f7aea0b01d7c521ab"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads input data from a specified port into the accumulator (A).  <a href="logical__instruction_8h.html#ae581e90cd0369a5f7aea0b01d7c521ab">More...</a><br /></td></tr>
+<tr class="separator:ae581e90cd0369a5f7aea0b01d7c521ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a201f7427aca2ade752135e8cbf54daff"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="logical__instruction_8h.html#a201f7427aca2ade752135e8cbf54daff">out</a> (uint8_t port_number)</td></tr>
+<tr class="memdesc:a201f7427aca2ade752135e8cbf54daff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes the contents of the accumulator (A) to a specified port.  <a href="logical__instruction_8h.html#a201f7427aca2ade752135e8cbf54daff">More...</a><br /></td></tr>
+<tr class="separator:a201f7427aca2ade752135e8cbf54daff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4b11c9bec004c4ad8ef28681a56a1595"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="logical__instruction_8h.html#a4b11c9bec004c4ad8ef28681a56a1595">hlt</a> ()</td></tr>
 <tr class="memdesc:a4b11c9bec004c4ad8ef28681a56a1595"><td class="mdescLeft">&#160;</td><td class="mdescRight">Halts the processor, stopping further execution.  <a href="logical__instruction_8h.html#a4b11c9bec004c4ad8ef28681a56a1595">More...</a><br /></td></tr>
 <tr class="separator:a4b11c9bec004c4ad8ef28681a56a1595"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -184,8 +184,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a2a42c34d1229c54661c07d5f36563c10" name="a2a42c34d1229c54661c07d5f36563c10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a42c34d1229c54661c07d5f36563c10">&#9670;&#160;</a></span>in()</h2>
+<a id="ae581e90cd0369a5f7aea0b01d7c521ab" name="ae581e90cd0369a5f7aea0b01d7c521ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae581e90cd0369a5f7aea0b01d7c521ab">&#9670;&#160;</a></span>in()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -193,7 +193,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool in </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">uint8_t&#160;</td>
           <td class="paramname"><em>port_number</em></td><td>)</td>
           <td></td>
         </tr>
@@ -453,8 +453,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="ac6e687a625624fc942273beee4a5d5bf" name="ac6e687a625624fc942273beee4a5d5bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac6e687a625624fc942273beee4a5d5bf">&#9670;&#160;</a></span>out()</h2>
+<a id="a201f7427aca2ade752135e8cbf54daff" name="a201f7427aca2ade752135e8cbf54daff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a201f7427aca2ade752135e8cbf54daff">&#9670;&#160;</a></span>out()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -462,7 +462,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool out </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">uint8_t&#160;</td>
           <td class="paramname"><em>port_number</em></td><td>)</td>
           <td></td>
         </tr>

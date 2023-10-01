@@ -25,12 +25,12 @@
 var NAVTREE =
 [
   [ "i8080-core", "index.html", [
-    [ "Installation", "index.html#autotoc_md1", null ],
-    [ "Set Up the Development Environment", "index.html#autotoc_md2", null ],
-    [ "Documentation", "index.html#autotoc_md3", null ],
-    [ "Contributing", "index.html#autotoc_md4", null ],
-    [ "License", "index.html#autotoc_md5", null ],
-    [ "Todo List", "todo.html", null ],
+    [ "Features", "index.html#autotoc_md1", null ],
+    [ "Installation", "index.html#autotoc_md2", null ],
+    [ "Set Up the Development Environment", "index.html#autotoc_md3", null ],
+    [ "Documentation", "index.html#autotoc_md4", null ],
+    [ "Contributing", "index.html#autotoc_md5", null ],
+    [ "License", "index.html#autotoc_md6", null ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],

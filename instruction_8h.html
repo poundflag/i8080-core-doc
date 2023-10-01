@@ -105,9 +105,9 @@ $(document).ready(function(){initNavTree('instruction_8h.html',''); initResizabl
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aa3de799439daafde9a19c734f9440c22"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="instruction_8h.html#aa3de799439daafde9a19c734f9440c22">decode_execute_instruction</a> (uint8_t opcode, int machine_cycle, uint16_t *temporary_address, bool *halt_signal)</td></tr>
-<tr class="memdesc:aa3de799439daafde9a19c734f9440c22"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decodes and executes the instruction based on the opcode.  <a href="instruction_8h.html#aa3de799439daafde9a19c734f9440c22">More...</a><br /></td></tr>
-<tr class="separator:aa3de799439daafde9a19c734f9440c22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af147025870e39dd8c90cb7fdb05a7709"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="instruction_8h.html#af147025870e39dd8c90cb7fdb05a7709">decode_execute_instruction</a> (uint8_t opcode, int machine_cycle, uint16_t *temporary_address)</td></tr>
+<tr class="memdesc:af147025870e39dd8c90cb7fdb05a7709"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decodes and executes the instruction based on the opcode.  <a href="instruction_8h.html#af147025870e39dd8c90cb7fdb05a7709">More...</a><br /></td></tr>
+<tr class="separator:af147025870e39dd8c90cb7fdb05a7709"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab094792bed3f045056f9fbbb4dc5db89"><td class="memItemLeft" align="right" valign="top"><a class="el" href="register__controller_8h.html#a8e39d30bce1b2172c347b10e96f05d1b">Register</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="instruction_8h.html#ab094792bed3f045056f9fbbb4dc5db89">get_destination_register</a> (uint8_t opcode)</td></tr>
 <tr class="memdesc:ab094792bed3f045056f9fbbb4dc5db89"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the destination register from the opcode.  <a href="instruction_8h.html#ab094792bed3f045056f9fbbb4dc5db89">More...</a><br /></td></tr>
 <tr class="separator:ab094792bed3f045056f9fbbb4dc5db89"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -118,8 +118,8 @@ Functions</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Defines functions for decoding and executing instructions. </p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="aa3de799439daafde9a19c734f9440c22" name="aa3de799439daafde9a19c734f9440c22"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa3de799439daafde9a19c734f9440c22">&#9670;&#160;</a></span>decode_execute_instruction()</h2>
+<a id="af147025870e39dd8c90cb7fdb05a7709" name="af147025870e39dd8c90cb7fdb05a7709"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af147025870e39dd8c90cb7fdb05a7709">&#9670;&#160;</a></span>decode_execute_instruction()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,13 +140,7 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">uint16_t *&#160;</td>
-          <td class="paramname"><em>temporary_address</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool *&#160;</td>
-          <td class="paramname"><em>halt_signal</em>&#160;</td>
+          <td class="paramname"><em>temporary_address</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -163,7 +157,6 @@ Functions</h2></td></tr>
     <tr><td class="paramdir">[in]</td><td class="paramname">opcode</td><td>The opcode of the instruction. </td></tr>
     <tr><td class="paramdir">[in]</td><td class="paramname">machine_cycle</td><td>The current machine cycle. </td></tr>
     <tr><td class="paramdir">[out]</td><td class="paramname">temporary_address</td><td>The temporary address that might be updated during execution. </td></tr>
-    <tr><td class="paramdir">[out]</td><td class="paramname">halt_signal</td><td>The halt signal that might be updated during execution. </td></tr>
   </table>
   </dd>
 </dl>

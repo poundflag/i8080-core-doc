@@ -8,13 +8,13 @@ var searchData=
   ['set_5fregister_5fbit_5',['set_register_bit',['../register__controller_8h.html#a37100dd333fafb6810cf4e3dcffdcca3',1,'register_controller.h']]],
   ['set_5fregister_5fpair_6',['set_register_pair',['../register__controller_8h.html#adf346406bf95cd6856a8f3c651394dcc',1,'register_controller.h']]],
   ['set_5fstack_5fpointer_7',['set_stack_pointer',['../stack_8h.html#acab6b27320bf2aefc68b3b85be0e860b',1,'stack.h']]],
-  ['set_5fsystem_5fhalt_8',['set_system_halt',['../cpu_8h.html#a0f30c3e4ebfc39600242fa6122137fc0',1,'cpu.h']]],
+  ['set_5fsystem_5fhalt_8',['set_system_halt',['../status__service_8h.html#a0f30c3e4ebfc39600242fa6122137fc0',1,'status_service.h']]],
   ['shld_9',['shld',['../logical__instruction_8h.html#a240222878568e90bbd5e1944eb1f8348',1,'logical_instruction.h']]],
   ['sphl_10',['sphl',['../logical__instruction_8h.html#a356fd7213c8bcfb1d79e5659295755ed',1,'logical_instruction.h']]],
   ['sta_11',['sta',['../logical__instruction_8h.html#a63abdb80314703d924b2e9fb8bd7a6b0',1,'logical_instruction.h']]],
   ['stax_12',['stax',['../logical__instruction_8h.html#a5394729aed48b33d2038a1315f15e647',1,'logical_instruction.h']]],
   ['stc_13',['stc',['../arithmetic__instruction_8h.html#aae41f5b56bf8caeb2e029514334eeb95',1,'arithmetic_instruction.h']]],
-  ['step_14',['step',['../cpu_8h.html#af4b9c98f5630bdee2af5566428f0a330',1,'cpu.h']]],
+  ['step_14',['step',['../cpu_8h.html#a5f34f4df63a4fcb7ceb484ceae6294ec',1,'cpu.h']]],
   ['sub_15',['sub',['../arithmetic__instruction_8h.html#a2c50c157af7bf04546b554db761d4201',1,'arithmetic_instruction.h']]],
   ['sui_16',['sui',['../arithmetic__instruction_8h.html#a9adfc15662678fc8f57f5b003e1246ed',1,'arithmetic_instruction.h']]]
 ];
